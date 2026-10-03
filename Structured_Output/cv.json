@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "input_variables": [],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "My name is  Mahir Tajuar Akash. I am a Computer Science graduate with two years\n    of experience working as a Machine Learning Engineer.\n\n    I have experience with Python, PyTorch, TensorFlow, Scikit-learn,\n    FastAPI, Docker, Kubernetes, MLflow, and AWS. I have built machine\n    learning pipelines, deployed deep learning models, and developed\n    REST APIs for AI applications.\n\n    I also have experience working with LangChain and Retrieval-Augmented\n    Generation (RAG) systems.\n\n    My main strength is my ability to build complete machine learning\n    systems from data preprocessing to deployment. However, I have limited\n    experience managing large engineering teams and need to improve my\n    system design skills.\n\n    Education:\n    BSc in Computer Science and Engineering.\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
